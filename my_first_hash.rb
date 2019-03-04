@@ -1,6 +1,6 @@
 def my_hash
 
-mine = 
+mine = {key => door
   
 end
 
