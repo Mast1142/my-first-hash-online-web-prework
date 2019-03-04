@@ -1,6 +1,6 @@
 def my_hash
 
-
+mine = 
   
 end
 
