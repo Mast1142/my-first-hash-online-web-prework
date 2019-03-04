@@ -1,6 +1,6 @@
 def my_hash
 
-mine = {key => door
+mine = {"key" => "door"}
   
 end
 
